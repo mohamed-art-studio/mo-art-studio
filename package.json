@@ -1,0 +1,14 @@
+{
+  "name": "mo-art-studio-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Mohamed Abd El Haleem Art Studio - Cloudflare Worker (static app + D1 backend)",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
